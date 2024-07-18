@@ -1,12 +1,11 @@
-**Netflix Clone - HTML, CSS, JavaScript & Bootstrap**
+**Netflix Clone - HTML, CSS & Bootstrap**
 
-This project is a front-end clone of the popular streaming service Netflix, built using HTML, CSS, JavaScript, and Bootstrap.
+This project is a front-end clone of the popular streaming service Netflix, built using HTML, CSS, and Bootstrap.
 It focuses on replicating the user interface and some interactive elements of the Netflix homepage.
 
 **Technologies Used**
 **HTML5:** Provides the structure and content for the web page.
 **CSS3:** Defines the styling and layout of the application.
-**JavaScript:** Adds interactivity to elements like carousels, modals, and navigation.
 **Bootstrap:** Provides a framework for responsive design and pre-built components.
 
 **Features**
@@ -22,5 +21,5 @@ Clone this repository.
 Open the index.html file in your web browser.
 
 
-This project is intended for educational purposes and to showcase the use of HTML, CSS, JavaScript, and Bootstrap in building a basic web application.
+This project is intended for educational purposes and to showcase the use of HTML, CSS, and Bootstrap in building a basic web application.
 Feel free to explore and extend it further!
